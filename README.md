@@ -47,7 +47,7 @@ I'm a passionate developer who loves to explore new technologies and create amaz
 Here are some of my notable projects:
 
 - [ChorDefine](https://github.com/ronmagpantay1/chordefine.git) - A Guitar Training Mobile Application for beginners using Flutter
-- [FRAS](https://github.com/ronmagpantay1/systeminteg.git) - A Facial Recognition  Attendance System using C# and OpenCV
+- [FRAS](https://github.com/paullooll/FaceRecognitionAttendanceSystem.git) - A Facial Recognition  Attendance System using C# and OpenCV
 - [AI Chatbot](https://github.com/ronmagpantay1/cc206final.git) - AI Chatbot using Flutter and OpenAI API
 
 
