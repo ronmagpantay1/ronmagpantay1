@@ -21,8 +21,13 @@ I'm a passionate developer who loves to explore new technologies and create amaz
 - Java
 
 ### Databases:
+- MySQL
+- PostgreSQL
 - SQL
 - Firebase
+
+### DevOps & Tools:
+- Docker
 
 ### Machine Learning & AI
 - Python
